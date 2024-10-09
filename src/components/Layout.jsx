@@ -1,7 +1,7 @@
 // src/components/Layout.js
 import React from "react"
 import "../css/Layout.css" // Importing the CSS for styles
-import LogoIcon from "../assets/images/7level v3 2.png" // Import the image
+import LogoIcon from "../assets/images/7level v3.png" // Import the image
 import ProfileImage from "../assets/images/alvixedoodle.png" // Import the image
 
 const Layout = () => {
