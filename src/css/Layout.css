@@ -14,9 +14,17 @@
   gap: 10px;
 }
 
-.profile-section,
+.top-icon {
+  max-width: 175px;
+}
+
+.profile-section {
+  max-width: max-content;
+}
+
 .profile-image img {
   width: 100%;
+  border-radius: 15px;
 }
 
 .dark-bg {
