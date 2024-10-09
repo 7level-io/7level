@@ -1,7 +1,8 @@
 import React from "react"
 import "../css/Layout.css"
 import LogoIcon from "../assets/images/7level v3.png"
-import ProfileImage from "../assets/images/alvixedoodle.png"
+import ProfileImage from "../assets/images/alvixedoodle-crop.png"
+import ProfileQR from "../assets/images/Alvin qr.png"
 import ContactFile from "../assets/contacts/contacts.vcf"
 
 const Layout = () => {
@@ -26,12 +27,16 @@ const Layout = () => {
           <i className="fa fa-user-plus"></i>{" "}
           {/* Assuming you want to use Font Awesome for icons */}
         </a>
-        <div className="icon-item big-icon purple-bg">
+        <div className="icon-item big-icon purple-bg schedule">
           <i className="fa fa-clock"></i>
         </div>
         <div className="icon-item big-icon black-icon white-bg">
           <i className="fa fa-info"></i>
         </div>
+      </div>
+
+      <div className="qr-code-container">
+        <img src={ProfileQR} alt="QR CODe" className="qr-code" />
       </div>
 
       <div className="footer">
@@ -41,7 +46,7 @@ const Layout = () => {
         <div className="footer-text">
           <div>Powered by</div>
 
-          <div>7level.io</div>
+          <div className="bold">7level.io</div>
         </div>
       </div>
     </div>

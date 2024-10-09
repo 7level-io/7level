@@ -2,10 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 
 a {
   text-decoration: none;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .layout-container {
@@ -15,11 +20,11 @@ a {
   align-items: center;
   background: #e4e4e4;
   padding: 10px;
-  gap: 10px;
+  gap: 15px;
 }
 
 .top-icon img {
-  max-width: 175px;
+  max-width: 200px;
 }
 
 .profile-section,
@@ -29,7 +34,7 @@ a {
 }
 
 .dark-bg {
-  background-color: #373737;
+  background-color: #1a1a1a;
 }
 
 .purple-bg {
@@ -41,7 +46,7 @@ a {
 }
 
 .black-icon i {
-  color: #373737;
+  color: #1a1a1a;
 }
 
 .icon-row {
@@ -66,6 +71,7 @@ a {
 .one-row-item {
   min-width: 300px;
   flex-grow: 1;
+  border-radius: 25px;
 }
 
 .big-icon {
@@ -73,7 +79,22 @@ a {
 }
 
 .icon-item i {
-  font-size: 26px;
+  font-size: 30px;
+}
+
+.icon-item.schedule i {
+  font-size: 42px;
+}
+
+.qr-code-container {
+  background-color: #fff;
+  text-align: center;
+  padding: 12px;
+  border-radius: 15px;
+}
+
+img.qr-code {
+  width: 60%;
 }
 
 .footer {
