@@ -1,7 +1,7 @@
 {
   "name": "7level",
   "version": "0.1.0",
-  "homepage": "https://7level-io.github.io/1st-Project",
+  "homepage": "https://github.com/7level-io/7level-vcf",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
