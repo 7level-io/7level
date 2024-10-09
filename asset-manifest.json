@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c584ec2d.css",
-    "main.js": "/static/js/main.bf56c1ae.js",
-    "static/js/453.48d9438a.chunk.js": "/static/js/453.48d9438a.chunk.js",
-    "static/media/Alvin qr.png": "/static/media/Alvin qr.72884a835a647501edb6.png",
-    "static/media/alvixedoodle-crop.webp": "/static/media/alvixedoodle-crop.e915212996d5b0eba488.webp",
-    "static/media/7level v3.webp": "/static/media/7level v3.fd356dc214d43c5f6b38.webp",
-    "index.html": "/index.html",
-    "static/media/contacts.vcf": "/static/media/contacts.c53c4b3e8d44ca7f813f.vcf",
-    "main.c584ec2d.css.map": "/static/css/main.c584ec2d.css.map",
-    "main.bf56c1ae.js.map": "/static/js/main.bf56c1ae.js.map",
-    "453.48d9438a.chunk.js.map": "/static/js/453.48d9438a.chunk.js.map"
+    "main.css": "/7level/static/css/main.c584ec2d.css",
+    "main.js": "/7level/static/js/main.eab64327.js",
+    "static/js/453.48d9438a.chunk.js": "/7level/static/js/453.48d9438a.chunk.js",
+    "static/media/Alvin qr.png": "/7level/static/media/Alvin qr.72884a835a647501edb6.png",
+    "static/media/alvixedoodle-crop.webp": "/7level/static/media/alvixedoodle-crop.e915212996d5b0eba488.webp",
+    "static/media/7level v3.webp": "/7level/static/media/7level v3.fd356dc214d43c5f6b38.webp",
+    "index.html": "/7level/index.html",
+    "static/media/contacts.vcf": "/7level/static/media/contacts.c53c4b3e8d44ca7f813f.vcf",
+    "main.c584ec2d.css.map": "/7level/static/css/main.c584ec2d.css.map",
+    "main.eab64327.js.map": "/7level/static/js/main.eab64327.js.map",
+    "453.48d9438a.chunk.js.map": "/7level/static/js/453.48d9438a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c584ec2d.css",
-    "static/js/main.bf56c1ae.js"
+    "static/js/main.eab64327.js"
   ]
 }
