@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/7level-vcf/static/css/main.6ddc68e3.css",
+    "main.css": "/7level-vcf/static/css/main.2076f599.css",
     "main.js": "/7level-vcf/static/js/main.c6294ac5.js",
     "static/js/453.48d9438a.chunk.js": "/7level-vcf/static/js/453.48d9438a.chunk.js",
     "static/media/alvixedoodle.png": "/7level-vcf/static/media/alvixedoodle.51b4ad34b65ae880fe88.png",
     "static/media/7level v3.png": "/7level-vcf/static/media/7level v3.edda3231feb4296a8ffe.png",
     "index.html": "/7level-vcf/index.html",
-    "main.6ddc68e3.css.map": "/7level-vcf/static/css/main.6ddc68e3.css.map",
+    "main.2076f599.css.map": "/7level-vcf/static/css/main.2076f599.css.map",
     "main.c6294ac5.js.map": "/7level-vcf/static/js/main.c6294ac5.js.map",
     "453.48d9438a.chunk.js.map": "/7level-vcf/static/js/453.48d9438a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ddc68e3.css",
+    "static/css/main.2076f599.css",
     "static/js/main.c6294ac5.js"
   ]
 }
