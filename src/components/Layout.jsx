@@ -1,7 +1,7 @@
 import React from "react"
 import "../css/Layout.css"
-import LogoIcon from "../assets/images/7level v3.png"
-import ProfileImage from "../assets/images/alvixedoodle-crop.png"
+import LogoIcon from "../assets/images/7level v3.webp"
+import ProfileImage from "../assets/images/alvixedoodle-crop.webp"
 import ProfileQR from "../assets/images/Alvin qr.png"
 import ContactFile from "../assets/contacts/contacts.vcf"
 
