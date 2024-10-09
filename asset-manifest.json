@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/7level-io/7level-vcf/static/css/main.b2d36722.css",
+    "main.js": "/7level-io/7level-vcf/static/js/main.998b788a.js",
+    "static/js/453.48d9438a.chunk.js": "/7level-io/7level-vcf/static/js/453.48d9438a.chunk.js",
+    "static/media/Rectangle 4.png": "/7level-io/7level-vcf/static/media/Rectangle 4.0c508c3a0681ece7c15f.png",
+    "index.html": "/7level-io/7level-vcf/index.html",
+    "main.b2d36722.css.map": "/7level-io/7level-vcf/static/css/main.b2d36722.css.map",
+    "main.998b788a.js.map": "/7level-io/7level-vcf/static/js/main.998b788a.js.map",
+    "453.48d9438a.chunk.js.map": "/7level-io/7level-vcf/static/js/453.48d9438a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d36722.css",
+    "static/js/main.998b788a.js"
+  ]
+}
