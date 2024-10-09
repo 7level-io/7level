@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/7level-vcf/static/css/main.c584ec2d.css",
-    "main.js": "/7level-vcf/static/js/main.2cb5422e.js",
+    "main.js": "/7level-vcf/static/js/main.ea5226e8.js",
     "static/js/453.48d9438a.chunk.js": "/7level-vcf/static/js/453.48d9438a.chunk.js",
-    "static/media/alvixedoodle-crop.png": "/7level-vcf/static/media/alvixedoodle-crop.47080649f187df01511b.png",
     "static/media/Alvin qr.png": "/7level-vcf/static/media/Alvin qr.72884a835a647501edb6.png",
-    "static/media/7level v3.png": "/7level-vcf/static/media/7level v3.edda3231feb4296a8ffe.png",
+    "static/media/alvixedoodle-crop.webp": "/7level-vcf/static/media/alvixedoodle-crop.e915212996d5b0eba488.webp",
+    "static/media/7level v3.webp": "/7level-vcf/static/media/7level v3.fd356dc214d43c5f6b38.webp",
     "index.html": "/7level-vcf/index.html",
     "static/media/contacts.vcf": "/7level-vcf/static/media/contacts.c53c4b3e8d44ca7f813f.vcf",
     "main.c584ec2d.css.map": "/7level-vcf/static/css/main.c584ec2d.css.map",
-    "main.2cb5422e.js.map": "/7level-vcf/static/js/main.2cb5422e.js.map",
+    "main.ea5226e8.js.map": "/7level-vcf/static/js/main.ea5226e8.js.map",
     "453.48d9438a.chunk.js.map": "/7level-vcf/static/js/453.48d9438a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c584ec2d.css",
-    "static/js/main.2cb5422e.js"
+    "static/js/main.ea5226e8.js"
   ]
 }
