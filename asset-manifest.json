@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8b6eb2a.css",
-    "main.js": "/static/js/main.b3556278.js",
+    "main.css": "/static/css/main.85a0378f.css",
+    "main.js": "/static/js/main.c822bfc3.js",
     "static/js/453.48d9438a.chunk.js": "/static/js/453.48d9438a.chunk.js",
-    "static/media/Alvin qr.png": "/static/media/Alvin qr.72884a835a647501edb6.png",
     "static/media/alvixedoodle-crop.webp": "/static/media/alvixedoodle-crop.e915212996d5b0eba488.webp",
     "static/media/7level v3.webp": "/static/media/7level v3.fd356dc214d43c5f6b38.webp",
+    "static/media/qr_code_7level_in_transparent.webp": "/static/media/qr_code_7level_in_transparent.34b612060b06b68103ca.webp",
     "index.html": "/index.html",
-    "static/media/contacts.vcf": "/static/media/contacts.c53c4b3e8d44ca7f813f.vcf",
-    "main.a8b6eb2a.css.map": "/static/css/main.a8b6eb2a.css.map",
-    "main.b3556278.js.map": "/static/js/main.b3556278.js.map",
+    "static/media/alvixe.vcf": "/static/media/alvixe.3747a576fae4f7997202.vcf",
+    "main.85a0378f.css.map": "/static/css/main.85a0378f.css.map",
+    "main.c822bfc3.js.map": "/static/js/main.c822bfc3.js.map",
     "453.48d9438a.chunk.js.map": "/static/js/453.48d9438a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8b6eb2a.css",
-    "static/js/main.b3556278.js"
+    "static/css/main.85a0378f.css",
+    "static/js/main.c822bfc3.js"
   ]
 }
