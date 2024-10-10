@@ -3,7 +3,7 @@ import "../css/Layout.css"
 import LogoIcon from "../assets/images/7level v3.webp"
 import ProfileImage from "../assets/images/alvixedoodle-crop.webp"
 import ProfileQR from "../assets/images/qr_code_7level_in_transparent.webp"
-import ContactFile from "../assets/contacts/contacts.vcf"
+import ContactFile from "../assets/contacts/alvixe.vcf"
 
 const Layout = () => {
   return (
