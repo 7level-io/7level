@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  -webkit-tap-highlight-color: transparent;
 }
 
 a {
@@ -72,6 +73,9 @@ a {
   min-width: 300px;
   flex-grow: 1;
   border-radius: 25px;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none;
 }
 
 .big-icon {
