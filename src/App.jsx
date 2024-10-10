@@ -1,19 +1,19 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom"
+// import { BrowserRouter, Route, Routes } from "react-router-dom"
 import "./App.css"
-import Alvin from "./routes/Alvin"
-import Home from "./routes/Home"
+// import Alvin from "./routes/Alvin"
+// import Home from "./routes/Home"
+import Layout from "./components/Layout"
 
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <Layout />
+      {/* <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/alvin" element={<Alvin />} />
-          {/* <Route path="/card" element={<CardOverview />} />
-            <Route path="/cardfull" element={<CardFull />} /> */}
+          <Route path="/alvixe" element={<Alvin />} />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </>
   )
 }
