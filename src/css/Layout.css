@@ -19,8 +19,6 @@ a {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background: #e4e4e4;
-  padding: 10px;
   gap: 15px;
 }
 
@@ -70,7 +68,6 @@ a {
 }
 
 .one-row-item {
-  min-width: 300px;
   flex-grow: 1;
   border-radius: 25px;
   -webkit-user-select: none; /* Safari */
@@ -111,4 +108,35 @@ img.qr-code {
 
 .footer-icon {
   width: 45px;
+}
+
+@media screen and (min-width: 768px) {
+  .layout-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 100px;
+  }
+
+  .one-row-item {
+    aspect-ratio: 1/1;
+    border-radius: 15px;
+  }
+
+  img.qr-code {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .layout-container {
+    padding: 10px;
+  }
+  .one-row-item {
+    min-width: 300px;
+    flex-grow: 1;
+    border-radius: 25px;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none;
+  }
 }
