@@ -92,10 +92,11 @@ a {
   text-align: center;
   padding: 12px;
   border-radius: 15px;
+  width: 100%;
 }
 
 img.qr-code {
-  width: 60%;
+  width: 70%;
 }
 
 .footer {
@@ -123,7 +124,7 @@ img.qr-code {
   }
 
   img.qr-code {
-    width: 40%;
+    width: 60%;
   }
 }
 
