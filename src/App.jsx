@@ -4,6 +4,11 @@ import "./App.css"
 // import Home from "./routes/Home"
 import Layout from "./components/Layout"
 
+import ReactGA from "react-ga4"
+
+const MEASUREMENT_ID = "G-SMD8M53XC6"
+ReactGA.initialize(MEASUREMENT_ID)
+
 function App() {
   return (
     <>
