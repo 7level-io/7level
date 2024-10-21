@@ -21,9 +21,7 @@ const Layout = () => {
         <AdditionalInfo />
       </div>
 
-      <div className="qr-code-container">
-        <img src={ProfileQR} alt="QR CODe" className="qr-code" />
-      </div>
+      <ProfileQR />
 
       <div className="footer">
         <div className="footer-icon">
