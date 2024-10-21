@@ -83,6 +83,10 @@ a {
   font-size: 30px;
 }
 
+.icon-item.schedule {
+  border: none;
+}
+
 .icon-item.schedule i {
   font-size: 42px;
 }
