@@ -6,6 +6,7 @@ import TopIcon from "./TopIcon"
 import ProfileSection from "./ProfileSection"
 import AddContact from "./AddContact"
 import MeetingScheduler from "./MeetingScheduler"
+import AdditionalInfo from "./AdditionalInfo"
 
 ReactGA.send({ hitType: "pageview", page: window.location.pathname })
 
@@ -17,9 +18,7 @@ const Layout = () => {
       <div className="icon-row">
         <AddContact />
         <MeetingScheduler />
-        <div className="icon-item big-icon black-icon white-bg">
-          <i className="fa fa-info"></i>
-        </div>
+        <AdditionalInfo />
       </div>
 
       <div className="qr-code-container">
