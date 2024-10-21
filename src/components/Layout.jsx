@@ -1,20 +1,17 @@
 import React from "react"
 import "../css/Layout.css"
-import LogoIcon from "../assets/images/7level v3.webp"
 import ProfileImage from "../assets/images/alvixedoodle-crop.webp"
 import ProfileQR from "../assets/images/qr_code_7level_in_transparent.webp"
 import ContactFile from "../assets/contacts/alvixe.vcf"
 import ReactGA from "react-ga4"
+import TopIcon from "./TopIcon"
 
 ReactGA.send({ hitType: "pageview", page: window.location.pathname })
 
 const Layout = () => {
   return (
     <div className="layout-container">
-      <div className="top-icon">
-        <img src={LogoIcon} alt="Top Icon" className="icon-image" />
-      </div>
-
+      <TopIcon />
       <div className="profile-section">
         <div className="profile-image">
           <img src={ProfileImage} alt="Profile" className="profile-pic" />
