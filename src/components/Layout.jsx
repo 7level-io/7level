@@ -30,9 +30,12 @@ const Layout = () => {
           <i className="fa fa-user-plus"></i>{" "}
           {/* Assuming you want to use Font Awesome for icons */}
         </a>
-        <div className="icon-item big-icon purple-bg schedule">
+        <a
+          href="https://cal.com/alvixe/7level"
+          className="icon-item big-icon purple-bg schedule"
+        >
           <i className="fa fa-clock"></i>
-        </div>
+        </a>
         <div className="icon-item big-icon black-icon white-bg">
           <i className="fa fa-info"></i>
         </div>
