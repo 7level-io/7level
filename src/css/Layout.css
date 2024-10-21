@@ -87,6 +87,10 @@ a {
   border: none;
 }
 
+.icon-item.schedule:hover {
+  cursor: pointer;
+}
+
 .icon-item.schedule i {
   font-size: 42px;
 }
