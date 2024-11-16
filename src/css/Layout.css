@@ -119,11 +119,19 @@ img.qr-code {
   width: 45px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 700px) {
   .layout-container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px 100px;
+  }
+}
+
+@media screen and (min-width: 440px) {
+  .layout-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 2.5rem;
   }
 
   .one-row-item {
@@ -136,7 +144,7 @@ img.qr-code {
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 439px) {
   .layout-container {
     padding: 10px;
   }
