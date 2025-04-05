@@ -1,5 +1,3 @@
-/*!  Copying ends here. */
-
 /**
  * @license React
  * react-dom.production.min.js
